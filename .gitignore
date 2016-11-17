@@ -36,3 +36,11 @@ Makefile*
 # QtCtreator CMake
 CMakeLists.txt.user
 
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.v12.suo
+*.opensdf
+*.sdf
+*.sln
